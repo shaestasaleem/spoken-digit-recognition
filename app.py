@@ -5,7 +5,7 @@ import pickle
 import os
 import tempfile
 import soundfile as sf
-from tensorflow.keras.models import load_model
+from keras.models import load_model
 
 st.set_page_config(page_title="PhonemeIQ — Spoken Digit Recognition", page_icon="🎙", layout="wide")
 
