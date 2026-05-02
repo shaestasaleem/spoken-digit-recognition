@@ -1,0 +1,10 @@
+runtime: python310
+
+env: standard
+
+entrypoint: streamlit run app_professional.py --server.port 8080 --server.address 0.0.0.0
+
+env_variables:
+  STREAMLIT_SERVER_MAXUPLOADSIZE: 100
+  STREAMLIT_CLIENT_SHOWERRORDETAILS: "false"
+  STREAMLIT_LOGGER_LEVEL: "warning"
