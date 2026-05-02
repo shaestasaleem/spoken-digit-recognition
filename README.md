@@ -1,6 +1,6 @@
 # 🎤 Spoken Digit Recognition — GUI
 
-Speech Processing Final Lab Project — Group #3
+Speech Processing Final Lab Project 
 
 ## How to Run
 
@@ -55,5 +55,3 @@ Go to: http://localhost:8501
 - Choose SVM, CNN, or Both models
 - See confidence score for each prediction
 
-## Group #3
-Savaira Majeed · Shaesta Saleem · Mustajab Zahra · Faizan Nazik · Sarfraz Ahmad · Muhammad Gulfam
