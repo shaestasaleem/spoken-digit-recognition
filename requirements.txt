@@ -1,7 +1,0 @@
-streamlit
-librosa
-numpy
-scikit-learn
-tensorflow
-sounddevice
-soundfile
