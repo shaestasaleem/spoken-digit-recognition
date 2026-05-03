@@ -1,6 +1,5 @@
 streamlit
 librosa
 numpy
-scikit-learn
-tf-keras
-soundfile
+tensorflow
+matplotlib
